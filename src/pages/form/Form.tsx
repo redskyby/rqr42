@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router';
 
-import FormField from '../../components/input/formField';
+import FormField from '../../components/formField/formField';
 import { RESULT_PAGE } from '../../const/const';
 
 const Form = () => {
